@@ -1,0 +1,166 @@
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\ApplicationInsights.config
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\csc.exe
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\System.Collections.Immutable.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\System.Reflection.Metadata.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\vbc.exe
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\VBCSCompiler.exe
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\roslyn\VBCSCompiler.exe.config
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\MVCLesson-09.dll.config
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\MVCLesson-09.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\MVCLesson-09.pdb
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Antlr3.Runtime.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\EntityFramework.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\EntityFramework.SqlServer.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.DependencyCollector.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.Web.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.WindowsServer.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.ApplicationInsights.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Google.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Web.Infrastructure.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Newtonsoft.Json.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Owin.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.Helpers.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.Mvc.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.Optimization.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.Razor.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.Deployment.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.Razor.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\WebGrease.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.DependencyCollector.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.Web.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.WindowsServer.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.ApplicationInsights.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.Helpers.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.Mvc.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.Optimization.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.Razor.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.Deployment.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.Razor.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Antlr3.Runtime.pdb
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Newtonsoft.Json.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\EntityFramework.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\EntityFramework.SqlServer.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Google.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Full Practice\MVCLesson-09\MVCLesson-09\obj\Debug\MVCLesson-09.csprojResolveAssemblyReference.cache
+E:\Full Practice\MVCLesson-09\MVCLesson-09\obj\Debug\MVCLesson-09.dll
+E:\Full Practice\MVCLesson-09\MVCLesson-09\obj\Debug\MVCLesson-09.pdb
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\ApplicationInsights.config
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\csc.exe
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\vbc.exe
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\VBCSCompiler.exe
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\MVCLesson-09.dll.config
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\MVCLesson-09.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\MVCLesson-09.pdb
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Antlr3.Runtime.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\EntityFramework.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\EntityFramework.SqlServer.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.DependencyCollector.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.Web.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.WindowsServer.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.ApplicationInsights.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.Core.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Cookies.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Facebook.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Google.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.OAuth.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Twitter.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Newtonsoft.Json.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Owin.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.Helpers.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.Mvc.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.Optimization.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.Razor.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.Deployment.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.Razor.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\WebGrease.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.DependencyCollector.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.Web.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AI.WindowsServer.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.ApplicationInsights.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.Helpers.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.Mvc.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.Optimization.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.Razor.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.Deployment.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\System.Web.WebPages.Razor.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Antlr3.Runtime.pdb
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Newtonsoft.Json.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\EntityFramework.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\EntityFramework.SqlServer.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.Core.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Facebook.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Cookies.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.OAuth.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Google.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.Twitter.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\obj\Debug\MVCLesson-09.dll
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\obj\Debug\MVCLesson-09.pdb
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\obj\Debug\MVCLesson-09.csprojAssemblyReference.cache
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\obj\Debug\MVCLesson-09.csproj.CoreCompileInputs.cache
+E:\C#\MVC__Lesson\MVCLesson-09\MVCLesson-09\obj\Debug\MVCLesson-09.csproj.CopyComplete
